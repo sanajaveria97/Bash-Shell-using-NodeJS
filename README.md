@@ -5,7 +5,7 @@ I am experienced in front-end development and a bit familiar with back-end. I de
 <br>
 
 ## About Project
-This project involves creating a bash like shell which takes in user commands and executes them. The folder contains 3 files: <br>
+This project involves creating a bash like shell which takes in user commands and executes them. The folder 'NodeJS-Assignment' contains 3 files: <br>
 1) shell.js <br>
 2) app.js <br>
 3) package.json
