@@ -31,7 +31,7 @@ The shell starts with the command: <br>
 - **Ctrl + C - Sends a SIGINT to terminate the process.**
 
 ### 2) app.js ###
-This is a demo file which can be executed within the shell.
+This is a demo file which can be executed within the shell and prints "Hello World" to the console.
 
 
 ## Test Cases ##
